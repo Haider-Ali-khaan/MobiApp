@@ -1,0 +1,16 @@
+.label9 {
+  position: relative;
+  line-height: 20px;
+}
+.small-screenfalse-statedisa {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0;
+  gap: var(--gap-5xs);
+  text-align: left;
+  font-size: var(--bodymd-medium-size);
+  color: var(--text-disabled);
+  font-family: var(--bodymd-medium);
+}

@@ -1,0 +1,83 @@
+.portfolio-child {
+  position: absolute;
+  top: -0.5px;
+  left: -0.5px;
+  border-radius: var(--br-5xs);
+  width: 570.1px;
+  height: 157.3px;
+}
+.image-22-icon,
+.image-23-icon {
+  position: relative;
+  width: 404.6px;
+  height: 99.7px;
+  object-fit: cover;
+}
+.image-23-icon {
+  width: 116.6px;
+}
+.img {
+  position: absolute;
+  top: 57.1px;
+  left: 22.9px;
+  width: 523.4px;
+  height: 99.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.dragdropmajor-1-icon2 {
+  position: absolute;
+  top: 22.4px;
+  left: 480px;
+  width: 22.9px;
+  height: 22.4px;
+  overflow: hidden;
+}
+.portfolio-item {
+  position: absolute;
+  top: 24.1px;
+  left: 509.2px;
+  border-right: 1px solid var(--border);
+  box-sizing: border-box;
+  width: 1px;
+  height: 18.9px;
+}
+.inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--text-on-primary);
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+  width: 27.4px;
+  height: 26.9px;
+}
+.circleplusmajor-1-icon {
+  position: absolute;
+  top: 2.2px;
+  left: 2.3px;
+  width: 22.9px;
+  height: 22.4px;
+  overflow: hidden;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 124.4px;
+  left: 532.6px;
+  width: 27.4px;
+  height: 26.9px;
+}
+.portfolio {
+  position: absolute;
+  top: 525.4px;
+  left: 22.9px;
+  width: 569.1px;
+  height: 156.8px;
+}

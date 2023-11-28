@@ -1,0 +1,21 @@
+.this-order-has {
+  flex: 1;
+  position: relative;
+  line-height: 20px;
+}
+.tooltip {
+  border-radius: var(--br-9xs);
+  background-color: var(--text-on-primary);
+  box-shadow: var(--shadow-popover);
+  width: 200px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-5xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--bodymd-medium-size);
+  color: var(--text-default);
+  font-family: var(--bodymd-medium);
+}

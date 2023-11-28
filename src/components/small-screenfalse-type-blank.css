@@ -1,0 +1,7 @@
+.small-screenfalse-typeblank {
+  border-radius: var(--br-5xs);
+  background-color: var(--text-on-primary);
+  box-shadow: var(--shadow-card);
+  width: 620px;
+  height: 104px;
+}

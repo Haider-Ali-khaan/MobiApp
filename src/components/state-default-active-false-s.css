@@ -1,0 +1,28 @@
+.label20 {
+  position: relative;
+  line-height: 16px;
+  font-weight: 600;
+  text-decoration: none;
+  color: #aeb4b9;
+}
+.label20:hover {
+  position: relative;
+  line-height: 16px;
+  font-weight: 600;
+  text-decoration: none;
+  color: black;
+}
+.statedefault-activefalse-s {
+  cursor: pointer;
+  border-radius: var(--br-9xs);
+  background-color: var(--text-on-primary);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-xs);
+  text-align: center;
+  font-size: var(--bodysm-semibold-size);
+  color: var(--text-subdued);
+  font-family: var(--bodymd-medium);
+}

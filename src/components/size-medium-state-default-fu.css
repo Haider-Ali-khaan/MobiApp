@@ -1,0 +1,26 @@
+.label6 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.auto-layout-button1,
+.sizemedium-statedefault-fu {
+  border-radius: var(--br-9xs);
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.auto-layout-button1 {
+  background-color: var(--action-primary-default);
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.08), 0-1px 0 rgba(0, 0, 0, 0.2) inset;
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.sizemedium-statedefault-fu {
+  align-items: flex-start;
+  text-align: center;
+  font-size: var(--bodymd-medium-size);
+  color: var(--text-on-primary);
+  font-family: var(--bodymd-medium);
+}

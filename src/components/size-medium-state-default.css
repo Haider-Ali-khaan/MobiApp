@@ -1,0 +1,16 @@
+.label8 {
+  position: relative;
+  line-height: 20px;
+}
+.sizemedium-statedefault {
+  border-radius: var(--br-9xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) var(--padding-8xs);
+  text-align: center;
+  font-size: var(--bodymd-medium-size);
+  color: var(--interactive-default);
+  font-family: var(--bodymd-medium);
+}

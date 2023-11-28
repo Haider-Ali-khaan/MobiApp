@@ -1,0 +1,22 @@
+.assetsradio-icon1 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  /* border-radius: 50%; */
+}
+.label29 {
+  position: relative;
+  line-height: 20px;
+}
+.small-screenfalse-statedefa3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0;
+  gap: var(--gap-5xs);
+  text-align: left;
+  font-size: var(--bodymd-medium-size);
+  color: var(--text-default);
+  font-family: var(--bodymd-medium);
+}

@@ -1,0 +1,32 @@
+.label13 {
+  position: relative;
+  line-height: 20px;
+}
+.label12 {
+  align-self: stretch;
+  height: 49px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-base) var(--padding-smi);
+  box-sizing: border-box;
+}
+.assetstabtrueselectedfalse-child {
+  align-self: stretch;
+  position: relative;
+  border-radius: var(--br-9xs) var(--br-9xs) 0 0;
+  background-color: var(--action-primary-default);
+  height: 3px;
+}
+.assetstabtrueselectedfalse {
+  background-color: var(--color-gray-100);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--bodymd-medium-size);
+  color: var(--text-default);
+  font-family: var(--bodymd-medium);
+}

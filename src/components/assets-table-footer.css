@@ -1,0 +1,21 @@
+.label63 {
+  flex: 1;
+  position: relative;
+  line-height: 20px;
+}
+.assetstable-footer {
+  border-radius: 0 0 var(--br-5xs) var(--br-5xs);
+  background-color: var(--surface-subdued);
+  box-shadow: var(--divider-top);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-base);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--bodymd-medium-size);
+  color: var(--text-subdued);
+  font-family: var(--bodymd-medium);
+  align-self: stretch;
+}

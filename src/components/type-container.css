@@ -1,0 +1,17 @@
+.type {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 93.5px);
+  line-height: 20px;
+}
+.radio-button-parent {
+  position: absolute;
+  top: 320px;
+  left: 633px;
+  width: 187px;
+  height: 53px;
+  text-align: left;
+  font-size: var(--bodymd-medium-size);
+  color: var(--text-default);
+  font-family: var(--bodymd-medium);
+}

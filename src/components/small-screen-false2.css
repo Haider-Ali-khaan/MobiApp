@@ -1,0 +1,61 @@
+.assetsheadercell,
+.assetsheadercell1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+}
+.assetsheadercell {
+  flex: 1;
+}
+.assetsheadercell1 {
+  width: 136px;
+}
+.numeric-label {
+  flex: 1;
+  position: relative;
+  line-height: 20px;
+}
+.assetsheadercell2 {
+  width: 112px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.caret-down-minor-icon1 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.numeric-label1 {
+  position: relative;
+  line-height: 20px;
+}
+.assetsheadercell4,
+.small-screenfalse {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.assetsheadercell4 {
+  width: 136px;
+  justify-content: flex-end;
+}
+.small-screenfalse {
+  background-color: var(--text-on-primary);
+  box-shadow: var(--divider-bottom);
+  justify-content: flex-start;
+  padding: var(--padding-base);
+  box-sizing: border-box;
+  gap: var(--gap-13xl);
+  opacity: 0.9;
+  text-align: right;
+  font-size: var(--bodymd-medium-size);
+  color: var(--text-default);
+  font-family: var(--bodymd-medium);
+  align-self: stretch;
+}

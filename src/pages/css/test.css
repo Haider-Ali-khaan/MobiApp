@@ -1,0 +1,117 @@
+/* styles.css */
+
+.dashboard {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  nav {
+    display: flex;
+    gap: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .menu, .edit, .search, .user {
+    display: flex;
+    gap: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    outline: none;
+  }
+  
+  .user h3 {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  
+  .user p {
+    font-size: 14px;
+    color: #666;
+  }
+  
+  main {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .search-block {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .search-block h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .no-image {
+    background-color: #ccc;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .portfolio-slider-block {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .portfolio-slider-block h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .portfolio-slider {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+  }
+  
+  .portfolio-slide {
+    width: 300px;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .portfolio-slide h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  footer {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+  }
+  

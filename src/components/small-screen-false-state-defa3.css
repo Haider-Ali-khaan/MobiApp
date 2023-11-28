@@ -1,0 +1,21 @@
+.label47 {
+  flex: 1;
+  position: relative;
+  line-height: 20px;
+}
+.small-screenfalse-statedefa4 {
+  border-radius: var(--br-9xs);
+  background-color: var(--text-on-primary);
+  border: 1px solid var(--border-subdued);
+  box-sizing: border-box;
+  width: 520px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-xs);
+  text-align: left;
+  font-size: var(--bodymd-medium-size);
+  color: var(--text-subdued);
+  font-family: var(--bodymd-medium);
+}

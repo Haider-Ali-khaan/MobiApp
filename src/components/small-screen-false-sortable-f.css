@@ -1,0 +1,16 @@
+.text-label {
+  flex: 1;
+  position: relative;
+  line-height: 20px;
+}
+.small-screenfalse-sortablef {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--bodymd-medium-size);
+  color: var(--text-default);
+  font-family: var(--bodymd-medium);
+  flex: 1;
+}

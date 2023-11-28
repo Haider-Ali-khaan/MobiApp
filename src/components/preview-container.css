@@ -1,0 +1,119 @@
+.label69 {
+  margin: 0;
+  position: absolute;
+  top: 20.2px;
+  left: 172.6px;
+  font-size: inherit;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  width: 89.1px;
+  height: 22.4px;
+}
+ .backP {
+  position: absolute;
+  top: 57.1px;
+  left: 1px;
+  width: 431.4px;
+  height: 56px;
+  background-image: url(/public/back@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.capa-1-iconP {
+  position: absolute;
+  top: 70.6px;
+  left: 390px;
+  width: 27.4px;
+  height: 26.9px;
+  overflow: hidden;
+}
+
+
+.line-div {
+  position: absolute;
+  top: 63.4px;
+  left: -0.5px;
+  border-top: 1px solid var(--border);
+  box-sizing: border-box;
+  width: 435.3px;
+  height: 1px;
+}
+.image-18-icon,
+.image-19-icon,
+.image-20-icon {
+  position: absolute;
+  top: 85.1px;
+  left: 0;
+  border-radius: 0 0 var(--br-5xs) var(--br-5xs);
+  width: 434.3px;
+  object-fit: cover;
+}
+.image-18-icon {
+  height: 597.1px;
+  display: none;
+}
+.image-19-icon,
+.image-20-icon {
+  height: 118.8px;
+}
+.image-19-icon {
+  top: 454.9px;
+  height: 227.4px;
+}
+.image-22-icon1,
+.image-23-icon1 {
+  position: relative;
+  width: 404.6px;
+  height: 243.1px;
+  object-fit: cover;
+}
+.image-23-icon1 {
+  width: 25.1px;
+}
+.img1 {
+  position: absolute;
+  top: 203.9px;
+  left: 1.1px;
+  width: 432px;
+  height: 243.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.child1,
+.div1 {
+  position: absolute;
+  width: 434.3px;
+}
+.child1 {
+  top: 143.4px;
+  left: 0;
+  border: 2px solid var(--interactive-default);
+  box-sizing: border-box;
+  height: 60.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(238, 249, 251);
+  padding: 35px 0;
+}
+.SearchinputP{
+  padding: 20px;
+  border: 0;
+  width: 85%;
+  /* height: 75%; */
+}
+.div1 {
+  top: 162.4px;
+  left: 1059.4px;
+  height: 682.3px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--text-default);
+  font-family: var(--bodymd-medium);
+}

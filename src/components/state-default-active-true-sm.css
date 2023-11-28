@@ -1,0 +1,27 @@
+.label21 {
+  position: relative;
+  line-height: 16px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.caret-down-minor-icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.statedefault-activetrue-sm {
+  border-radius: var(--br-9xs);
+  background-color: var(--surface-primary-selected);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-5xs) var(--padding-7xs)
+    var(--padding-xs);
+  text-align: center;
+  font-size: var(--bodysm-semibold-size);
+  color: var(--icon-success);
+  font-family: var(--bodymd-medium);
+}

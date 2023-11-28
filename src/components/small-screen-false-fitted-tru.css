@@ -1,0 +1,26 @@
+.label14 {
+  position: relative;
+  line-height: 20px;
+}
+.assetstabtruedefaultfalse6 {
+  flex: 1;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base);
+}
+.small-screenfalse-fittedtru {
+  background-color: var(--color-gray-100);
+  box-shadow: var(--divider-bottom);
+  width: 934px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  text-align: center;
+  font-size: var(--bodymd-medium-size);
+  color: var(--text-subdued);
+  font-family: var(--bodymd-medium);
+}
